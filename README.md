@@ -1,4 +1,6 @@
-# mousepass
+# mouse password
+
+(it is a work program , but only for funny used. Security pass save in json file :) )
 
 F3 - load your password
 
