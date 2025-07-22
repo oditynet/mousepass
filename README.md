@@ -1,4 +1,6 @@
 # mousepass
+1) It is a python logics for test.
+
 For write password used your mouse
 
 ```bash
@@ -11,9 +13,12 @@ python pass.py
 
 <img src="https://github.com/oditynet/mousepass/blob/main/screen.png" title="example" width="800" />
 
-And screensave on graphics pass
+2) It is a work program screensave on graphics pass
+   
 F3 - load your password
+
 F2 - unlock screen
+
 default keyboard pass is "123"
 
 C code:
